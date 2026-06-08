@@ -1,0 +1,23 @@
+
+body {
+    font-family: Arial, sans-serif;
+   
+    margin: 5;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    white-space-collapse: break-spaces;
+    background-color: rgb(255, 255, 255);
+    border: 8px solid rgb(199, 198, 197);
+    border-radius: 15px;
+   
+}
+.fila {
+background-color: rgb(107, 228, 51);
+display: flex;
+justify-content: space-evenly;
+padding: 25px;
+
+
+}
